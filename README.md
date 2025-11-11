@@ -9,5 +9,7 @@ A continuación se muestra un orden recomendado de los temas que uno debe aprend
 6. [Code Formatting](https://mgdacc.github.io/python-code-formatting/)
 7. [Linters](https://mgdacc.github.io/python-linters/)
 8. [Testing](https://mgdacc.github.io/python-testing/)
+9. [Pipenv](https://mgdacc.github.io/python-pipenv/)
+10. [Poetry](https://mgdacc.github.io/python-poetry/)
 
 Extra: [Regular Expressions](https://mgdacc.github.io/python-regex/)
